@@ -1,11 +1,13 @@
-## 👋 Hello!
+## 👋 Hiya!
 
-My name is Tristan, and I'm a mid-level SWE at Vanguard.
+My name is Tristan, I live in Philly and currently a mid-level SWE at Vanguard.
 
-- 🔭 I’m currently working on **full-stack web applications**
-- 🌱 I’m currently learning **performance engineering** or **automated testing**
+- 🔭 I’m currently working on **full-stack web applications** for **Vanguard Digital Advisor**
+- 🌱 I’m currently learning **performance engineering**, **automated testing**, and **AI-assisted development**
 - 📫 How to reach me: tristanwainwright(AT)icloud(DOT)com
+- 💬 Ask me about **travel**, **food**, or **history**!
 - 😄 Pronouns: he/him/his
+
 <!--
 **unlucky-charm/unlucky-charm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
