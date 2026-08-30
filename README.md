@@ -1,6 +1,6 @@
 ## 👋 Hiya!
 
-My name is Tristan, I live in Philly and currently a mid-level SWE at Vanguard.
+My name is Tristan, I live in Philly and am currently a mid-level SWE at Vanguard.
 
 - 🔭 I’m currently working on **full-stack web applications** for **Vanguard Digital Advisor**
 - 🌱 I’m currently learning **performance engineering**, **automated testing**, and **AI-assisted development**
